@@ -1,21 +1,39 @@
-MIT License
+MIT License(Extended Version)
 
-Copyright (c) 2025 dryiel
+Copyright (c) 2025 Christopher Adriel Haryono (dryiel)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+--- Overview ---
+This software is released under the MIT License, one of the most permissive
+open-source licenses available. It is intended to give end users, developers,
+and organizations the freedom to use, modify, distribute, and even sell copies
+of this software, while limiting liability for the authors and contributors.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+--- Permissions ---
+Subject to the conditions below, you are free to:
+- Use the Software for personal, academic, or commercial purposes.
+- Modify the Software, including creating derivative works.
+- Distribute copies of the Software in any medium.
+- Combine the Software with other projects, whether proprietary or open source.
+- Sublicense or resell the Software as part of another project.
 
+--- Conditions ---
+- The copyright notice above and this permission notice must be included
+  in all copies or substantial portions of the Software.
+- Any modifications made should clearly document the changes from
+  the original version for transparency.
+
+--- Disclaimer ---
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+AUTHORS, CONTRIBUTORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+--- Notes ---
+By using this software, you acknowledge that:
+- The authors are not responsible for any misuse or damages resulting
+  from its use.
+- This license does not grant you any trademark rights, patent rights,
+  or rights to use the name of the authors for promotion without consent.
